@@ -32,14 +32,6 @@ Claude 会自动读取仓库、拷贝文件到 `~/.claude/skills/web-access/`，
 git clone https://github.com/eze-is/web-access-skill ~/.claude/skills/web-access
 ```
 
-然后在 `~/.claude/settings.json` 中添加：
-
-```json
-{
-  "skills": ["web-access"]
-}
-```
-
 ## 开启 Chrome Remote Debugging
 
 在 Chrome 地址栏打开 `chrome://inspect/#remote-debugging`，勾选 **Allow remote debugging for this browser instance**（可能需要重启浏览器）。
