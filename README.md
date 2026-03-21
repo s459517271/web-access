@@ -1,4 +1,6 @@
-# web-access
+<p align="center">
+  <img src="assets/logo.png" alt="web-access" width="480">
+</p>
 
 给 Claude Code 装上完整联网能力的 skill。
 
